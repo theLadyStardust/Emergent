@@ -1,0 +1,361 @@
+[19:53:00] [main/INFO]: ModLauncher running: args [--username, TheLadyStardust, --version, 1.18.2, --gameDir, ..\..\instances\Emergent, --assetsDir, ..\..\datastore\assets, --assetIndex, 1.18, --uuid, b3d2d4bd79c3471aa66b06fa989c93ca, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, --width=854, --height=480]
+[19:53:00] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Eclipse Adoptium
+[19:53:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/jess0/AppData/Roaming/gdlauncher_next/datastore/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[19:53:01] [main/INFO]: Found mod file AdvancedPeripherals-0.7.23r.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file AE2WTLib-11.6.3.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file Amplified_Nether_v1.1.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file Apotheosis-1.18.2-5.7.7.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file appleskin-forge-mc1.18.2-2.4.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file Applied-Mekanistics-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file appliedenergistics2-forge-11.7.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file architectury-4.10.88-forge.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file ars_nouveau-1.18.2-2.8.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file AttributeFix-Forge-1.18.2-14.0.2.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file balm-3.2.1+0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file BiomesOPlenty-1.18.2-16.0.0.134.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file BloodMagic-1.18.2-3.2.6-41.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file Bookshelf-Forge-1.18.2-13.2.51.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file Botania-1.18.2-435.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file buildinggadgets-3.13.1-build.18+mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file carryon-1.18.2-1.17.0.8.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file cc-tweaked-1.18.2-1.101.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file celestial_1.18_forge-1.3.3.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file cloth-config-6.4.90-forge.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file Clumps-forge-1.18.2-8.0.0+17.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file cobblegenrandomizer-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file CodeChickenLib-1.18.2-4.1.2.475-universal.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file cofh_core-1.18.2-9.1.2.32.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file comforts-forge-1.18.2-5.0.0.5.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file compactmachines-4.5.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file Controlling-forge-1.18.2-9.0+22.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file CosmeticArmorReworked-1.18.2-v2a.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file craftingtweaks-forge-1.18.2-14.0.3.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file create-1.18.2-0.5.0.h.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file create_crystal_clear-0.1.3e-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file createplus-1.18.2_v0.5.1a.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file CTM-1.18.2-1.1.5+5.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file curios-forge-1.18.2-5.0.7.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file Cyclic-1.18.2-1.7.13.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file defaultoptions-forge-1.18.2-14.1.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file Delightful-1.18.2-2.6.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file DungeonsArise-1.18.2-2.1.52-release.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file elevatorid-1.18.2-1.8.4.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.18.2-10.0.12.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file EnderStorage-1.18.2-2.9.0.182-universal.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file FarmersDelight-1.18.2-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file FastLeafDecay-28.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file fissionrecipe-2.0.1-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file FluxNetworks-1.18.2-7.0.8.12.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file flywheel-forge-1.18.2-0.6.8.a.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file ftb-chunks-forge-1802.3.12-build.217.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file ftb-library-forge-1802.3.9-build.167.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file ftb-quests-forge-1802.3.12-build.157.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file ftb-teams-forge-1802.2.9-build.88.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file ftb-ultimine-forge-1802.3.3-build.70.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file gamestageconditions-1.18.2-2.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:01] [main/INFO]: Found mod file GameStages-Forge-1.18.2-8.1.3.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file geode-1.1.3-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file GeodeOPlenty-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file HostileNeuralNetworks-1.18.2-3.2.2.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file Iceberg-1.18.2-forge-1.0.49.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file industrial-foregoing-1.18.2-3.3.1.5-9.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file infernalmobs-1.18.6.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file InfernalStages-1.18.2-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file ironchest-1.18.2-13.2.11.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file item-filters-forge-1802.2.8-build.47.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file ItemStages-Forge-1.18.2-4.0.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file Jade-1.18.2-forge-5.2.6.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file jei-1.18.2-9.7.1.255.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file jei-1.18.2-forge-10.2.1.283.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file JustEnoughResources-1.18.2-0.14.1.171.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file kubejs-blood-magic-1802.1.2-build.4.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file kubejs-create-forge-1802.2.2-build.28.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file kubejs-forge-1802.5.5-build.567.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file kubejs-mekanism-1802.1.3-build.8.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file kubejs-thermal-1802.1.5-build.16.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file laserio-1.4.5.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file LegendaryTooltips-1.18.2-1.3.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file Mantle-1.18.2-1.9.31.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file mcjtylib-1.18-6.0.20.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file Mekanism-1.18.2-10.2.5.465.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file MekanismAdditions-1.18.2-10.2.5.465.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file MekanismGenerators-1.18.2-10.2.5.465.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file MekanismTools-1.18.2-10.2.5.465.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file mininggadgets-1.11.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file modnametooltip-1.18.1-1.18.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file NaturesCompass-1.18.2-1.9.7-forge.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file Neat-1.8-31.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file netherportalfix-forge-1.18-9.0.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4.7.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file Patchouli-1.18.2-71.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file Placebo-1.18.2-6.6.6.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file portality-1.18.2-3.3.5.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file Prism-1.18.2-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file ReAuth-1.18-Forge-4.0.6.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file RecipeStages-3.0.0.10.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file rftoolsbase-1.18-3.0.11.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file rftoolsbuilder-1.18-4.1.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file rftoolscontrol-1.18-5.0.8.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file rftoolsdim-1.18-8.0.9.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file rftoolspower-1.18-4.0.9.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file rftoolsstorage-1.18-3.0.12.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file rftoolsutility-1.18-4.0.21.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file rhino-forge-1802.2.1-build.255.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file shutupexperimentalsettings-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file sophisticatedbackpacks-1.18.2-3.18.40.777.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file sophisticatedcore-1.18.2-0.5.37.202.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file StorageDrawers-1.18.2-10.2.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file TConstruct-1.18.2-3.5.3.63.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file teamsstages-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file TerraBlender-forge-1.18.2-1.2.0.126.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file thermal_cultivation-1.18.2-9.1.0.14.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file thermal_expansion-1.18.2-9.1.0.18.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file thermal_foundation-1.18.2-9.1.0.34.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file thermal_innovation-1.18.2-9.1.0.15.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file thermal_integration-1.18.2-9.1.0.10.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file thermal_locomotion-1.18.2-9.1.0.11.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file ThermalExtra 1.18.2-1.0.7.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file titanium-1.18.2-3.5.8-40.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file ToastControl-1.18.2-6.0.3.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file TradeStages-1.18.2-1.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file waystones-forge-1.18.2-10.1.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file xnet-1.18-4.0.7.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file XNetGases-1.18.2-3.0.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file YungsApi-1.18.2-Forge-2.2.7.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file YungsBetterDungeons-1.18.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file YungsBetterMineshafts-1.18.2-Forge-2.2.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/INFO]: Found mod file YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar of type MOD with provider {mods folder locator at C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\mods}
+[19:53:02] [main/WARN]: Mod file C:\Users\jess0\AppData\Roaming\gdlauncher_next\datastore\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.0\fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
+[19:53:02] [main/WARN]: Mod file C:\Users\jess0\AppData\Roaming\gdlauncher_next\datastore\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.0\javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[19:53:02] [main/WARN]: Mod file C:\Users\jess0\AppData\Roaming\gdlauncher_next\datastore\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.0\lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[19:53:02] [main/WARN]: Mod file C:\Users\jess0\AppData\Roaming\gdlauncher_next\datastore\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.0\mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[19:53:02] [main/INFO]: Found mod file fmlcore-1.18.2-40.2.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3d6300e8
+[19:53:02] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3d6300e8
+[19:53:02] [main/INFO]: Found mod file lowcodelanguage-1.18.2-40.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3d6300e8
+[19:53:02] [main/INFO]: Found mod file mclanguage-1.18.2-40.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3d6300e8
+[19:53:02] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3d6300e8
+[19:53:02] [main/INFO]: Found mod file forge-1.18.2-40.2.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3d6300e8
+[19:53:02] [main/INFO]: Found 1 dependencies adding them to mods collection
+[19:53:02] [main/INFO]: Found mod file Registrate-MC1.18.2-1.1.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@edf4f36
+[19:53:10] [main/INFO]: Compatibility level set to JAVA_17
+[19:53:10] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 1.18.2, --gameDir, ..\..\instances\Emergent, --assetsDir, ..\..\datastore\assets, --uuid, b3d2d4bd79c3471aa66b06fa989c93ca, --username, TheLadyStardust, --assetIndex, 1.18, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, release, --width=854, --height=480]
+[19:53:11] [main/WARN]: Reference map 'compactmachines.refmap.json' for compactmachines.mixin.json could not be read. If this is a development environment you can ignore this message
+[19:53:11] [main/WARN]: Reference map 'bloodmagic.refmap.json' for bloodmagic.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:53:13] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[19:53:13] [main/WARN]: Error loading class: vazkii/quark/content/client/tooltip/AttributeTooltips (java.lang.ClassNotFoundException: vazkii.quark.content.client.tooltip.AttributeTooltips)
+[19:53:16] [main/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Z)V
+[19:53:16] [main/INFO]:   BeforeConstant found INTEGER constant: value = 60, intValue = null
+[19:53:16] [main/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[19:53:16] [main/INFO]:       BeforeConstant found IntInsn 60
+[19:53:21] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[19:53:29] [pool-3-thread-1/INFO]: Patching FishingHook#catchingFish
+[19:53:32] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/EnchantedBookItem
+[19:53:34] [pool-3-thread-1/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[19:53:34] [pool-3-thread-1/INFO]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[19:53:39] [Render thread/WARN]: Assets URL 'union:/C:/Users/jess0/AppData/Roaming/gdlauncher_next/datastore/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23178!/assets/.mcassetsroot' uses unexpected schema
+[19:53:39] [Render thread/WARN]: Assets URL 'union:/C:/Users/jess0/AppData/Roaming/gdlauncher_next/datastore/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23178!/data/.mcassetsroot' uses unexpected schema
+[19:53:39] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:53:40] [Render thread/INFO]: Setting user: TheLadyStardust
+[19:53:40] [Render thread/INFO]: Loaded default options for extra-folder
+[19:53:41] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[19:53:41] [Render thread/INFO]: Loaded client.properties
+[19:53:54] [modloading-worker-0/INFO]: AdvancedPeripherals says hello!
+[19:53:54] [modloading-worker-0/WARN]: Successfully loaded integration for botania
+[19:53:55] [modloading-worker-0/WARN]: Successfully loaded integration for create
+[19:53:55] [modloading-worker-0/WARN]: Successfully loaded integration for mekanism
+[19:53:55] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[19:53:55] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[19:53:55] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[19:53:55] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[19:53:55] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[19:53:55] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[19:53:57] [modloading-worker-0/INFO]: Scanning classes for industrialforegoing
+[19:53:57] [modloading-worker-0/INFO]: Found FeaturePluginInstance for class CuriosPlugin for plugin curios
+[19:53:57] [modloading-worker-0/INFO]: Constructed class CuriosPlugin for plugin curios for mod industrialforegoing
+[19:53:57] [modloading-worker-0/INFO]: Executing phase CONSTRUCTION for plugin class CuriosPlugin
+[19:53:57] [modloading-worker-0/INFO]: Executing phase PRE_INIT for plugin class CuriosPlugin
+[19:53:57] [modloading-worker-0/ERROR]: Failed to read config
+java.io.FileNotFoundException: C:\Users\jess0\AppData\Roaming\gdlauncher_next\instances\Emergent\config\tradestages.json (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:?]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:?]
+	at java.io.FileReader.<init>(Unknown Source) ~[?:?]
+	at dev.quarris.tradestages.ModRoot.loadTradeData(ModRoot.java:27) ~[TradeStages-1.18.2-1.0.jar%23170!/:1.0]
+	at dev.quarris.tradestages.ModRoot.<init>(ModRoot.java:20) ~[TradeStages-1.18.2-1.0.jar%23170!/:1.0]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:67) ~[javafmllanguage-1.18.2-40.2.0.jar%23180!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:106) ~[fmlcore-1.18.2-40.2.0.jar%23179!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(Unknown Source) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(Unknown Source) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(Unknown Source) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:?]
+[19:53:58] [modloading-worker-0/INFO]: Executing phase INIT for plugin class CuriosPlugin
+[19:53:58] [modloading-worker-0/INFO]: Scanning classes for portality
+[19:53:58] [modloading-worker-0/INFO]: Executing phase POST_INIT for plugin class CuriosPlugin
+[19:53:58] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[19:53:58] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[19:53:58] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbultimine:send_shape
+[19:53:58] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
+[19:53:58] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
+[19:53:59] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[19:54:00] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:edit_nbt
+[19:54:00] [modloading-worker-0/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[19:54:00] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[19:54:01] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_teams
+[19:54:01] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:open_gui
+[19:54:01] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[19:54:01] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:update_settings
+[19:54:01] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_settings_response
+[19:54:01] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:send_message
+[19:54:01] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:send_message_response
+[19:54:01] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_presence
+[19:54:01] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:create_party
+[19:54:01] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:player_gui_operation
+[19:54:01] [modloading-worker-0/INFO]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[19:54:01] [modloading-worker-0/INFO]: Registering S2C receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[19:54:01] [modloading-worker-0/INFO]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[19:54:01] [modloading-worker-0/INFO]: Registering S2C receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[19:54:04] [modloading-worker-0/INFO]: [Infernal Stages] Initializing
+[19:54:06] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:request_map_data
+[19:54:06] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_all_chunks
+[19:54:06] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:login_data
+[19:54:06] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[19:54:06] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_chunk
+[19:54:06] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_general_data
+[19:54:06] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[19:54:06] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:player_death
+[19:54:06] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_visible_player_list
+[19:54:06] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:sync_tx
+[19:54:06] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:sync_rx
+[19:54:06] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:loaded_chunk_view
+[19:54:06] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:send_player_position
+[19:54:06] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[19:54:06] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbchunks:server_config_request
+[19:54:06] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbchunks:server_config_response
+[19:54:06] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[19:54:06] [modloading-worker-0/INFO]: Found plugin source kubejs
+[19:54:06] [modloading-worker-0/INFO]: Found plugin source kubejs_mekanism
+[19:54:06] [modloading-worker-0/INFO]: Found plugin source kubejs_blood_magic
+[19:54:06] [modloading-worker-0/INFO]: Found plugin source kubejs_thermal
+[19:54:06] [modloading-worker-0/INFO]: Found plugin source ftbchunks
+[19:54:06] [modloading-worker-0/INFO]: Found plugin source ftbquests
+[19:54:06] [modloading-worker-0/INFO]: Found plugin source kubejs_create
+[19:54:06] [modloading-worker-0/INFO]: Done in 63.00 ms
+[19:54:06] [modloading-worker-0/INFO]: Loaded common.properties
+[19:54:07] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
+[19:54:07] [modloading-worker-0/INFO]: Rhino properties loaded.
+[19:54:07] [modloading-worker-0/INFO]: Loading mappings for 1.18.2
+[19:54:07] [modloading-worker-0/INFO]: Done in 0.299 s
+[19:54:08] [modloading-worker-0/INFO]: Forge mod loading, version 40.2.0, for MC 1.18.2 with MCP 20220404.173914
+[19:54:08] [modloading-worker-0/INFO]: MinecraftForge v40.2.0 Initialized
+[19:54:08] [modloading-worker-0/INFO]: Hello, World! (You will only see this line once in console, during startup)
+[19:54:08] [modloading-worker-0/INFO]: Loaded script startup_scripts:script.js in 0.281 s
+[19:54:08] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 1.939 s
+[19:54:09] [modloading-worker-0/INFO]: Hello, World! (You will see this line every time client resources reload)
+[19:54:09] [modloading-worker-0/INFO]: Loaded script client_scripts:script.js in 0.003 s
+[19:54:09] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.114 s
+[19:54:09] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[19:54:09] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
+[19:54:09] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
+[19:54:09] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
+[19:54:09] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
+[19:54:09] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
+[19:54:10] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[19:54:10] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[19:54:13] [modloading-worker-0/INFO]: Loaded config file.
+[19:54:13] [modloading-worker-0/INFO]: Saved config file.
+[19:54:13] [modloading-worker-0/INFO]: Scanning classes for titanium
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_quests
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_team_data
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:update_task_progress
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:submit_task
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_reward
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:claim_reward_response
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_editing_mode
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:get_emergency_items
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:create_other_team_data
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_completion_toast
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_reward_toast
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_item_reward_toast
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_pinned
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:toggle_pinned_response
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:toggle_chapter_pinned_response
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:force_save
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:update_team_data
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:set_custom_image
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_started
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_completed
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_started_reset
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_completed_reset
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_lock
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:reset_reward
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:team_data_changed
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:task_screen_config_req
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:change_progress
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:create_object
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:create_object_response
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:create_task_at
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:delete_object
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:delete_object_response
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:edit_object
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:edit_object_response
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_chapter
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_chapter_response
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_quest
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_quest_response
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:change_chapter_group
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:change_chapter_group_response
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_chapter_group
+[19:54:14] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_chapter_group_response
+[19:54:14] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_reward_blocking
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:copy_quest
+[19:54:14] [modloading-worker-0/INFO]: No shaders mod detected.
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[19:54:14] [modloading-worker-0/INFO]: Registering C2S receiver with id ae2wtlib:cycle_terminal
+[19:54:19] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:19] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:19] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:54:20] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:02] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:02] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:02] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:02] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:08] [Render thread/INFO]: Attempting to register Tile Entities
+[19:55:08] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bane_of_arthropods`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:08] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `smite`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:08] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sharpness`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:08] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:08] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fire_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:08] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `blast_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:08] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `projectile_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:08] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `feather_falling`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:09] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:09] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:09] [Render thread/WARN]: @Inject(@At("INVOKE")) Shift.BY=3 on tradestages.mixins.json:client.MerchantScreenMixin::handler$zee000$renderInvalidStageIcon exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[19:55:11] [Render thread/INFO]: Potentially Dangerous alternative prefix `mekanism` for name `fission`, expected `fissionrecipe`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:11] [Render thread/INFO]: Potentially Dangerous alternative prefix `mekanism` for name `fluid_coolant`, expected `fissionrecipe`. This could be a intended override, but in most cases indicates a broken mod.
+[19:55:11] [Render thread/INFO]: Potentially Dangerous alternative prefix `mekanism` for name `gas_coolant`, expected `fissionrecipe`. This could be a intended override, but in most cases indicates a broken mod.
