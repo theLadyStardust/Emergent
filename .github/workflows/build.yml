@@ -4,7 +4,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-     - uses: thedoctor0/zip-release@0.7.0
-     - with: 
+    - name: Zip Release
+      uses: thedoctor0/zip-release@0.7.0
+      with: 
         type: '.zip'
         filename: 'emergent.zip'
