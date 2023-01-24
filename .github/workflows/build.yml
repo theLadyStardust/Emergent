@@ -10,7 +10,8 @@ jobs:
       with:
         type: 'zip'
         filename: 'emergent.zip'
-        exclusions: '*.git*'
+        
+        exclusions: '*.git* /*local/* /*logs/* /*natives/* .gitattributes config.json knownkeys.txt options.txt patchouli_data.json reauth.toml rhino.local.properties'
     
     - uses: actions/upload-artifact@v3
       with:
