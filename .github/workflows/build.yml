@@ -7,5 +7,5 @@ jobs:
     - name: Zip Release
       uses: thedoctor0/zip-release@0.7.0
       with: 
-        type: '.zip'
+        type: 'zip'
         filename: 'emergent.zip'
