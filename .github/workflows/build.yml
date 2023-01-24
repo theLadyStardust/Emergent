@@ -7,9 +7,4 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: emergent
-        path: |
-          main/mods
-          main/config
-          main/defaultconfig
-          main/kubejs
-          !main/.github
+        path: mods
