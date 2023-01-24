@@ -1,0 +1,12 @@
+name: Build Archive
+on: [push]
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@0.7.0
+      with: 
+        type: '.zip'
+        filename: 'emergent.zip'
