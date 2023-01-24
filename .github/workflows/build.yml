@@ -8,8 +8,5 @@ jobs:
       with:
         name: emergent
         path: |
-          config/
-          defaultconfigs/
-          mods/
-          kubejs/
-          !.github/
+          Emergent
+          *.git*
