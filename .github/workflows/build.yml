@@ -4,15 +4,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: Zip Release
-      uses: thedoctor0/zip-release@0.7.0
-      with: 
-        filename: 'emergent.zip'
-        type: 'zip'
-        exclusions: '*.git*'
-        
     - uses: actions/upload-artifact@v3
       with:
-        name: emergent.zip
-        path: .emergent.zip # or path/to/artifact
+        name: emergent
+        path: |
+          ./*
+          !.github/*
