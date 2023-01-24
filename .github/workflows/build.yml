@@ -10,5 +10,9 @@ jobs:
       with: 
         filename: 'emergent.zip'
         type: 'zip'
-        exclusions: 'README.md'
+        exclusions: '*.git*'
         
+    - uses: actions/upload-artifact@v3
+      with:
+        name: emergent.zip
+        path: . # or path/to/artifact
