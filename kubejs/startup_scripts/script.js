@@ -4,12 +4,15 @@ console.info('Hello, World! (You will only see this line once in console, during
 
 // key : [regName : "registry_name", dispName : "Display Name", rarity : "rarity", color : hexcolor/0xFFFFFF]
 
-var researchStage(disp, rar, col){
+/*var researchStage(disp, rar, col){
 	return {regName : disp.toLower(), dispName : disp, rarity : rar, color : col, isFluid : false}  
-}
+}*/
 
-var researchStage(disp, rar, col, fluid){
-	return {regName : disp.toLower(), dispName : disp, rarity : rar, color : col, isFluid : fluid}  
+function researchStage(disp, rar, col, fluid){
+	if (fluid == undefined) {		//Rhino doesn't support default arg values >:(
+		fluid = false
+	}
+	return {regName : disp.toLowerCase(), dispName : disp, rarity : rar, color : col, isFluid : fluid}  
 }
 
 var research_stages = {
