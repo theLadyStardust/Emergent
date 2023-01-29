@@ -1,21 +1,25 @@
 
 [overworld]
 	#Disable Overworld Fog?
-	"Disable Overworld Fog" = false
+	"Disable Overworld Fog" = true
 	#Overworld Fog Starting Distance
 	#Range: 0.1 ~ 100.0
 	"Overworld Fog Starting Distance" = 0.8
+	"Overworld Fog Starting Distance" = 0.9
 	#Overworld Fog End Distance
 	#Range: 0.1 ~ 100.0
 	"Overworld Fog End Distance" = 0.9
+	"Overworld Fog End Distance" = 1.0
 	#Readds the void fog that was removed in 1.8
 	"Enable Void Fog" = false
 	#This is so you can adjust the starting distance of the fog
 	#Range: 0.001 ~ 10.0
 	"Void Fog Starting Distance" = 0.5
+	"Void Fog Starting Distance" = 0.002
 	#This is so you can adjust the ending distance of the fog
 	#Range: 0.001 ~ 10.0
 	"Void Fog End Distance" = 10
+	"Void Fog End Distance" = 0.04
 	#At what Y-level should the fog active on
 	#Range: -64 ~ 319
 	"Y-Level Activation" = 0
